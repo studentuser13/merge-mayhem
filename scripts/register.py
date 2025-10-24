@@ -1,1 +1,1 @@
-print('Hello from register')
+print('Hello from OJ')
