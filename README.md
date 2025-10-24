@@ -1,3 +1,5 @@
-# Merge Mayhem
+# Merge Mayhem - Sanjana and OJ
 
-#Setup steps....(make changes and push to observe conflicts)
+```jsx
+const parameters = React.use(parameters)
+```

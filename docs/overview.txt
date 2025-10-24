@@ -1,1 +1,2 @@
-Team Project: Merge Practice mayhem!
+Project: Merge Practice
+Team Project: Resolve merge conflicts practice
